@@ -1,0 +1,5 @@
+{
+  "name": "Odia Granthalaya",
+  "description": "A digital library application to explore and read classic and contemporary Odia literature. Browse by genre, search for titles, and enjoy generated chapter previews powered by Gemini.",
+  "requestFramePermissions": []
+}
